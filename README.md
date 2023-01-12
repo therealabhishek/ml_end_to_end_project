@@ -6,4 +6,17 @@ This is an end to end ml regression project
 2. VS Code IDE
 3. GIT cli
 
+Create Conda Environment
+```
+conda create -p venv python==3.8 -y 
+```
+
+Activate Environment
+```
+conda activate venv/
+```
+OR
+```
+conda activate venv
+```
 
