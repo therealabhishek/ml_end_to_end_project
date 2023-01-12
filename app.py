@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route("/", methods=['GET', 'POST'])
 def index():
-    return "ML End  to End project"
+    return "ML End to End project!!"
 
 
 if __name__ == "__main__":
