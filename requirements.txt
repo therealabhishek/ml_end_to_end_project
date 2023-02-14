@@ -5,4 +5,5 @@ pandas
 scikit-learn
 ipykernel
 PyYAML
+six
 -e .
